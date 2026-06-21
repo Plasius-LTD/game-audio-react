@@ -6,8 +6,25 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+- **Added**
+  - (placeholder)
+
+- **Changed**
+  - (placeholder)
+
+- **Fixed**
+  - (placeholder)
+
+- **Security**
+  - (placeholder)
+
+## [0.1.2] - 2026-06-21
+
 ### Added
 
 - Initial @plasius/game-audio-react package scaffold from the Plasius package template.
 - Package boundary ADR and baseline validation scripts.
 - Feature flag contract for `game.audio.react-provider.enabled`.
+
+
+[0.1.2]: https://github.com/Plasius-LTD/game-audio-react/releases/tag/v0.1.2
